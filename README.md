@@ -15,8 +15,6 @@ NumPy is a Python library for scientific computing. It provides fast and efficie
 
 ## More Courses
 
-## More Courses
-
 - [Practice Linux Programming Courses](https://github.com/labex-labs/practice-linux-programming-courses)
 - [Practice Python Programming Courses](https://github.com/labex-labs/practice-python-programming-courses)
 - [Practice DevOps Programming Courses](https://github.com/labex-labs/practice-devops-programming-courses)
