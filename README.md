@@ -6,12 +6,12 @@
 
 NumPy is a Python library for scientific computing. It provides fast and efficient multidimensional arrays, as well as a large collection of mathematical functions. In this skill tree, you'll learn how to use NumPy to perform basic operations on arrays of data.
 
-|   Index | Name                                                    | Level   | Repo                                                              | Course Link                                                            |
-|---------|---------------------------------------------------------|---------|-------------------------------------------------------------------|------------------------------------------------------------------------|
-|       1 | [Quick Start with NumPy](#quick-start-with-numpy)       | ★☆☆     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-numpy)    | [🚀 Start Learning](https://labex.io/courses/quick-start-with-numpy)    |
-|       2 | [NumPy Practice Labs](#numpy-practice-labs)             | ★☆☆     | [🔗 Repo](https://github.com/labex-labs/numpy-practice-labs)       | [🚀 Start Learning](https://labex.io/courses/numpy-practice-labs)       |
-|       3 | [NumPy Practice Challenges](#numpy-practice-challenges) | ★☆☆     | [🔗 Repo](https://github.com/labex-labs/numpy-practice-challenges) | [🚀 Start Learning](https://labex.io/courses/numpy-practice-challenges) |
-|       4 | [100 NumPy Exercises](#100-numpy-exercises)             | ★★☆     | [🔗 Repo](https://github.com/labex-labs/100-numpy-exercises)       | [🚀 Start Learning](https://labex.io/courses/100-numpy-exercises)       |
+|   Index | Name                                                                            | Level   | Repo                                                              | Course Link                                                   |
+|---------|---------------------------------------------------------------------------------|---------|-------------------------------------------------------------------|---------------------------------------------------------------|
+|       1 | [Quick Start with NumPy](https://labex.io/courses/quick-start-with-numpy)       | ★☆☆     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-numpy)    | [🚀 Start](https://labex.io/courses/quick-start-with-numpy)    |
+|       2 | [NumPy Practice Labs](https://labex.io/courses/numpy-practice-labs)             | ★☆☆     | [🔗 Repo](https://github.com/labex-labs/numpy-practice-labs)       | [🚀 Start](https://labex.io/courses/numpy-practice-labs)       |
+|       3 | [NumPy Practice Challenges](https://labex.io/courses/numpy-practice-challenges) | ★☆☆     | [🔗 Repo](https://github.com/labex-labs/numpy-practice-challenges) | [🚀 Start](https://labex.io/courses/numpy-practice-challenges) |
+|       4 | [100 NumPy Exercises](https://labex.io/courses/100-numpy-exercises)             | ★★☆     | [🔗 Repo](https://github.com/labex-labs/100-numpy-exercises)       | [🚀 Start](https://labex.io/courses/100-numpy-exercises)       |
 
 ## More Courses
 
