@@ -12,10 +12,10 @@ NumPy 는 Python 과학 컴퓨팅의 기반입니다. 이 스킬 트리는 NumPy
 
 |   인덱스 | 이름                                                                        | 난이도   | Repo                                                               | 연습                                                                  |
 |----------|-----------------------------------------------------------------------------|----------|--------------------------------------------------------------------|-----------------------------------------------------------------------|
-|        1 | [NumPy 퀵 스타트](https://labex.io/ko/courses/quick-start-with-numpy)       | ★☆☆      | [🔗 Repo](https://github.com/labex-labs/quick-start-with-numpy)    | [🚀 실습 시작](https://labex.io/ko/courses/quick-start-with-numpy)    |
-|        2 | [NumPy 실습 랩](https://labex.io/ko/courses/numpy-practice-labs)            | ★☆☆      | [🔗 Repo](https://github.com/labex-labs/numpy-practice-labs)       | [🚀 실습 시작](https://labex.io/ko/courses/numpy-practice-labs)       |
-|        3 | [NumPy 실습 챌린지](https://labex.io/ko/courses/numpy-practice-challenges)  | ★☆☆      | [🔗 Repo](https://github.com/labex-labs/numpy-practice-challenges) | [🚀 실습 시작](https://labex.io/ko/courses/numpy-practice-challenges) |
-|        4 | [100 가지 NumPy 연습 문제](https://labex.io/ko/courses/100-numpy-exercises) | ★★☆      | [🔗 Repo](https://github.com/labex-labs/100-numpy-exercises)       | [🚀 실습 시작](https://labex.io/ko/courses/100-numpy-exercises)       |
+|        1 | [NumPy 퀵 스타트](https://labex.io/ko/courses/quick-start-with-numpy)       | 초급     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-numpy)    | [🚀 실습 시작](https://labex.io/ko/courses/quick-start-with-numpy)    |
+|        2 | [NumPy 실습 랩](https://labex.io/ko/courses/numpy-practice-labs)            | 초급     | [🔗 Repo](https://github.com/labex-labs/numpy-practice-labs)       | [🚀 실습 시작](https://labex.io/ko/courses/numpy-practice-labs)       |
+|        3 | [NumPy 실습 챌린지](https://labex.io/ko/courses/numpy-practice-challenges)  | 초급     | [🔗 Repo](https://github.com/labex-labs/numpy-practice-challenges) | [🚀 실습 시작](https://labex.io/ko/courses/numpy-practice-challenges) |
+|        4 | [100 가지 NumPy 연습 문제](https://labex.io/ko/courses/100-numpy-exercises) | 중급     | [🔗 Repo](https://github.com/labex-labs/100-numpy-exercises)       | [🚀 실습 시작](https://labex.io/ko/courses/100-numpy-exercises)       |
 
 ## 더 보기
 
