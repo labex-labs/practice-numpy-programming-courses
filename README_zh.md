@@ -12,10 +12,10 @@ NumPy 是 Python 中科学计算的基础。此技能树为学习 NumPy 提供�
 
 |   序号 | 名称                                                                    | 难度   | Repo                                                               | 练习                                                                 |
 |--------|-------------------------------------------------------------------------|--------|--------------------------------------------------------------------|----------------------------------------------------------------------|
-|      1 | [NumPy 快速入门](https://labex.io/zh/courses/quick-start-with-numpy)    | ★☆☆    | [🔗 Repo](https://github.com/labex-labs/quick-start-with-numpy)    | [🚀 开始实验](https://labex.io/zh/courses/quick-start-with-numpy)    |
-|      2 | [NumPy 实践实验室](https://labex.io/zh/courses/numpy-practice-labs)     | ★☆☆    | [🔗 Repo](https://github.com/labex-labs/numpy-practice-labs)       | [🚀 开始实验](https://labex.io/zh/courses/numpy-practice-labs)       |
-|      3 | [NumPy 实践挑战](https://labex.io/zh/courses/numpy-practice-challenges) | ★☆☆    | [🔗 Repo](https://github.com/labex-labs/numpy-practice-challenges) | [🚀 开始实验](https://labex.io/zh/courses/numpy-practice-challenges) |
-|      4 | [100 个 NumPy 练习题](https://labex.io/zh/courses/100-numpy-exercises)  | ★★☆    | [🔗 Repo](https://github.com/labex-labs/100-numpy-exercises)       | [🚀 开始实验](https://labex.io/zh/courses/100-numpy-exercises)       |
+|      1 | [NumPy 快速入门](https://labex.io/zh/courses/quick-start-with-numpy)    | 初级   | [🔗 Repo](https://github.com/labex-labs/quick-start-with-numpy)    | [🚀 开始实验](https://labex.io/zh/courses/quick-start-with-numpy)    |
+|      2 | [NumPy 实践实验室](https://labex.io/zh/courses/numpy-practice-labs)     | 初级   | [🔗 Repo](https://github.com/labex-labs/numpy-practice-labs)       | [🚀 开始实验](https://labex.io/zh/courses/numpy-practice-labs)       |
+|      3 | [NumPy 实践挑战](https://labex.io/zh/courses/numpy-practice-challenges) | 初级   | [🔗 Repo](https://github.com/labex-labs/numpy-practice-challenges) | [🚀 开始实验](https://labex.io/zh/courses/numpy-practice-challenges) |
+|      4 | [100 个 NumPy 练习题](https://labex.io/zh/courses/100-numpy-exercises)  | 中级   | [🔗 Repo](https://github.com/labex-labs/100-numpy-exercises)       | [🚀 开始实验](https://labex.io/zh/courses/100-numpy-exercises)       |
 
 ## 更多
 
