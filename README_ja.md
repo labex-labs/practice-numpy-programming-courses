@@ -12,10 +12,10 @@ NumPy は Python における科学計算の基盤です。このスキルツリ
 
 |   インデックス | 名前                                                                           | 難易度   | Repo                                                               | 練習                                                                   |
 |----------------|--------------------------------------------------------------------------------|----------|--------------------------------------------------------------------|------------------------------------------------------------------------|
-|              1 | [NumPy のクイックスタート](https://labex.io/ja/courses/quick-start-with-numpy) | ★☆☆      | [🔗 Repo](https://github.com/labex-labs/quick-start-with-numpy)    | [🚀 ラボを開始](https://labex.io/ja/courses/quick-start-with-numpy)    |
-|              2 | [NumPy 実践ラボ](https://labex.io/ja/courses/numpy-practice-labs)              | ★☆☆      | [🔗 Repo](https://github.com/labex-labs/numpy-practice-labs)       | [🚀 ラボを開始](https://labex.io/ja/courses/numpy-practice-labs)       |
-|              3 | [NumPy 実践チャレンジ](https://labex.io/ja/courses/numpy-practice-challenges)  | ★☆☆      | [🔗 Repo](https://github.com/labex-labs/numpy-practice-challenges) | [🚀 ラボを開始](https://labex.io/ja/courses/numpy-practice-challenges) |
-|              4 | [100 の NumPy 演習](https://labex.io/ja/courses/100-numpy-exercises)           | ★★☆      | [🔗 Repo](https://github.com/labex-labs/100-numpy-exercises)       | [🚀 ラボを開始](https://labex.io/ja/courses/100-numpy-exercises)       |
+|              1 | [NumPy のクイックスタート](https://labex.io/ja/courses/quick-start-with-numpy) | 初級     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-numpy)    | [🚀 ラボを開始](https://labex.io/ja/courses/quick-start-with-numpy)    |
+|              2 | [NumPy 実践ラボ](https://labex.io/ja/courses/numpy-practice-labs)              | 初級     | [🔗 Repo](https://github.com/labex-labs/numpy-practice-labs)       | [🚀 ラボを開始](https://labex.io/ja/courses/numpy-practice-labs)       |
+|              3 | [NumPy 実践チャレンジ](https://labex.io/ja/courses/numpy-practice-challenges)  | 初級     | [🔗 Repo](https://github.com/labex-labs/numpy-practice-challenges) | [🚀 ラボを開始](https://labex.io/ja/courses/numpy-practice-challenges) |
+|              4 | [100 の NumPy 演習](https://labex.io/ja/courses/100-numpy-exercises)           | 中級     | [🔗 Repo](https://github.com/labex-labs/100-numpy-exercises)       | [🚀 ラボを開始](https://labex.io/ja/courses/100-numpy-exercises)       |
 
 ## その他
 
