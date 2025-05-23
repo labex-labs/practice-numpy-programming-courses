@@ -1,56 +1,23 @@
 # Practice NumPy Programming Courses
 
+## Languages
+
+🇨🇳 [简体中文](README_zh.md) 🇯🇵 [日本語](README_ja.md) 🇪🇸 [Español](README_es.md) 🇫🇷 [Français](README_fr.md) 🇩🇪 [Deutsch](README_de.md) 🇷🇺 [Русский](README_ru.md) 🇰🇷 [한국어](README_ko.md) 🇧🇷 [Português](README_pt.md) 🇺🇸 [English](README.md) 
+
 <div align="center">
 <img width="128px" src="https://file.labex.io/path/gdqX0QgXsYjL.png">
 </div>
 
-NumPy is fundamental to scientific computing in Python. This Skill Tree presents a systematic approach to learning NumPy. Perfect for data science beginners, it offers a structured roadmap to understand array operations, broadcasting, and numerical algorithms. Hands-on, non-video courses and practical exercises in a numerical analysis playground ensure you develop real-world skills in efficient data manipulation and computation.
+NumPy is the foundation of scientific computing in Python. This Skill Tree provides a systematic way to learn NumPy. Ideal for data science beginners, it offers a structured learning path to master array operations, broadcasting, and numerical algorithms. Hands - on, non - video courses and practical exercises in a numerical analysis playground help you develop real - world skills in efficient data manipulation and computation.
 
-|   Index | Name                                                                            | Level   | Repo                                                              | Course Link                                                   |
-|---------|---------------------------------------------------------------------------------|---------|-------------------------------------------------------------------|---------------------------------------------------------------|
-|       1 | [Quick Start with NumPy](https://labex.io/courses/quick-start-with-numpy)       | ★☆☆     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-numpy)    | [🚀 Start](https://labex.io/courses/quick-start-with-numpy)    |
-|       2 | [NumPy Practice Labs](https://labex.io/courses/numpy-practice-labs)             | ★☆☆     | [🔗 Repo](https://github.com/labex-labs/numpy-practice-labs)       | [🚀 Start](https://labex.io/courses/numpy-practice-labs)       |
-|       3 | [NumPy Practice Challenges](https://labex.io/courses/numpy-practice-challenges) | ★☆☆     | [🔗 Repo](https://github.com/labex-labs/numpy-practice-challenges) | [🚀 Start](https://labex.io/courses/numpy-practice-challenges) |
-|       4 | [100 NumPy Exercises](https://labex.io/courses/100-numpy-exercises)             | ★★☆     | [🔗 Repo](https://github.com/labex-labs/100-numpy-exercises)       | [🚀 Start](https://labex.io/courses/100-numpy-exercises)       |
+|   Index | Name                                                                            | Difficulty   | Repo                                                               | Practice                                                           |
+|---------|---------------------------------------------------------------------------------|--------------|--------------------------------------------------------------------|--------------------------------------------------------------------|
+|       1 | [Quick Start with NumPy](https://labex.io/courses/quick-start-with-numpy)       | ★☆☆          | [🔗 Repo](https://github.com/labex-labs/quick-start-with-numpy)    | [🚀 Start Lab](https://labex.io/courses/quick-start-with-numpy)    |
+|       2 | [NumPy Practice Labs](https://labex.io/courses/numpy-practice-labs)             | ★☆☆          | [🔗 Repo](https://github.com/labex-labs/numpy-practice-labs)       | [🚀 Start Lab](https://labex.io/courses/numpy-practice-labs)       |
+|       3 | [NumPy Practice Challenges](https://labex.io/courses/numpy-practice-challenges) | ★☆☆          | [🔗 Repo](https://github.com/labex-labs/numpy-practice-challenges) | [🚀 Start Lab](https://labex.io/courses/numpy-practice-challenges) |
+|       4 | [100 NumPy Exercises](https://labex.io/courses/100-numpy-exercises)             | ★★☆          | [🔗 Repo](https://github.com/labex-labs/100-numpy-exercises)       | [🚀 Start Lab](https://labex.io/courses/100-numpy-exercises)       |
 
-## More Courses
-
-- [Practice Linux Programming Courses](https://github.com/labex-labs/practice-linux-programming-courses)
-- [Practice DevOps Programming Courses](https://github.com/labex-labs/practice-devops-programming-courses)
-- [Practice Cyber Security Programming Courses](https://github.com/labex-labs/practice-cysec-programming-courses)
-- [Practice Python Programming Courses](https://github.com/labex-labs/practice-python-programming-courses)
-- [Practice Docker Programming Courses](https://github.com/labex-labs/practice-docker-programming-courses)
-- [Practice Data Science Programming Courses](https://github.com/labex-labs/practice-data-science-programming-courses)
-- [Practice Kubernetes Programming Courses](https://github.com/labex-labs/practice-kubernetes-programming-courses)
-- [Practice Big Data Programming Courses](https://github.com/labex-labs/practice-bigdata-programming-courses)
-- [Practice Machine Learning Programming Courses](https://github.com/labex-labs/practice-ml-programming-courses)
-- [Practice Web Development Programming Courses](https://github.com/labex-labs/practice-web-development-programming-courses)
-- [Practice Git Programming Courses](https://github.com/labex-labs/practice-git-programming-courses)
-- [Practice Ansible Programming Courses](https://github.com/labex-labs/practice-ansible-programming-courses)
-- [Practice Jenkins Programming Courses](https://github.com/labex-labs/practice-jenkins-programming-courses)
-- [Practice Shell Programming Courses](https://github.com/labex-labs/practice-shell-programming-courses)
-- [Practice Java Programming Courses](https://github.com/labex-labs/practice-java-programming-courses)
-- [Practice Hadoop Programming Courses](https://github.com/labex-labs/practice-hadoop-programming-courses)
-- [Practice C++ Programming Courses](https://github.com/labex-labs/practice-cpp-programming-courses)
-- [Practice C Programming Courses](https://github.com/labex-labs/practice-c-programming-courses)
-- [Practice MySQL Programming Courses](https://github.com/labex-labs/practice-mysql-programming-courses)
-- [Practice Go Programming Courses](https://github.com/labex-labs/practice-go-programming-courses)
-- [Practice Rust Programming Courses](https://github.com/labex-labs/practice-rust-programming-courses)
-- [Practice OpenCV Programming Courses](https://github.com/labex-labs/practice-opencv-programming-courses)
-- [Practice Django Programming Courses](https://github.com/labex-labs/practice-django-programming-courses)
-- [Practice Pandas Programming Courses](https://github.com/labex-labs/practice-pandas-programming-courses)
-- [Practice NumPy Programming Courses](https://github.com/labex-labs/practice-numpy-programming-courses)
-- [Practice scikit-learn Programming Courses](https://github.com/labex-labs/practice-sklearn-programming-courses)
-- [Practice Matplotlib Programming Courses](https://github.com/labex-labs/practice-matplotlib-programming-courses)
-- [Practice Algorithm Programming Courses](https://github.com/labex-labs/practice-algorithm-programming-courses)
-- [Practice HTML Programming Courses](https://github.com/labex-labs/practice-html-programming-courses)
-- [Practice CSS Programming Courses](https://github.com/labex-labs/practice-css-programming-courses)
-- [Practice JavaScript Programming Courses](https://github.com/labex-labs/practice-javascript-programming-courses)
-- [Practice React Programming Courses](https://github.com/labex-labs/practice-react-programming-courses)
-- [Practice jQuery Programming Courses](https://github.com/labex-labs/practice-jquery-programming-courses)
-
-
-## Other Lists
+## More
 
 - 🔗 [NumPy Free Tutorials](https://github.com/labex-labs/numpy-free-tutorials)
 - 🔗 [Awesome Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
