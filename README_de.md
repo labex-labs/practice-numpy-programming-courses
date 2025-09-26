@@ -8,14 +8,13 @@
 <img width="128px" src="https://file.labex.io/path/gdqX0QgXsYjL.png">
 </div>
 
-NumPy ist die Grundlage für wissenschaftliches Rechnen in Python. Dieser Skill Tree bietet einen systematischen Ansatz zum Erlernen von NumPy. Ideal für Anfänger in der Datenwissenschaft, bietet er einen strukturierten Lernpfad, um Array-Operationen, Broadcasting und numerische Algorithmen zu meistern. Praktische, nicht-videobasierte Kurse und Übungen in einem numerischen Analyse-Spielplatz helfen Ihnen, reale Fähigkeiten in effizienter Datenmanipulation und Berechnung zu entwickeln.
+Lernen Sie NumPy, die Grundlage des wissenschaftlichen Rechnens in Python, mit einem strukturierten Lernpfad, der für Anfänger konzipiert ist. Diese Sammlung praxisorientierter NumPy-Kurse bietet einen systematischen Weg, um Array-Operationen, Broadcasting und numerische Algorithmen zu meistern. Durch praktische Übungen in einem numerischen Analyse-Spielplatz entwickeln Sie reale Fähigkeiten in der effizienten Datenmanipulation und -berechnung. Dieser Fahrplan ist ideal für jeden, der seine Reise in der Datenwissenschaft beginnt.
 
 |   Index | Name                                                                          | Schwierigkeit   | Repo                                                               | Übung                                                                     |
 |---------|-------------------------------------------------------------------------------|-----------------|--------------------------------------------------------------------|---------------------------------------------------------------------------|
-|       1 | [Schnellstart mit NumPy](https://labex.io/de/courses/quick-start-with-numpy)  | Anfänger        | [🔗 Repo](https://github.com/labex-labs/quick-start-with-numpy)    | [🚀 Labor Starten](https://labex.io/de/courses/quick-start-with-numpy)    |
-|       2 | [NumPy Übungslabs](https://labex.io/de/courses/numpy-practice-labs)           | Anfänger        | [🔗 Repo](https://github.com/labex-labs/numpy-practice-labs)       | [🚀 Labor Starten](https://labex.io/de/courses/numpy-practice-labs)       |
-|       3 | [NumPy Übungsaufgaben](https://labex.io/de/courses/numpy-practice-challenges) | Anfänger        | [🔗 Repo](https://github.com/labex-labs/numpy-practice-challenges) | [🚀 Labor Starten](https://labex.io/de/courses/numpy-practice-challenges) |
-|       4 | [100 NumPy Übungen](https://labex.io/de/courses/100-numpy-exercises)          | Fortgeschritten | [🔗 Repo](https://github.com/labex-labs/100-numpy-exercises)       | [🚀 Labor Starten](https://labex.io/de/courses/100-numpy-exercises)       |
+|       1 | [NumPy für Anfänger](https://labex.io/de/courses/numpy-for-beginners)         | Anfänger        | [🔗 Repo](https://github.com/labex-labs/numpy-for-beginners)       | [🚀 Labor Starten](https://labex.io/de/courses/numpy-for-beginners)       |
+|       2 | [NumPy Übungsaufgaben](https://labex.io/de/courses/numpy-practice-challenges) | Anfänger        | [🔗 Repo](https://github.com/labex-labs/numpy-practice-challenges) | [🚀 Labor Starten](https://labex.io/de/courses/numpy-practice-challenges) |
+|       3 | [100 NumPy Übungen](https://labex.io/de/courses/100-numpy-exercises)          | Anfänger        | [🔗 Repo](https://github.com/labex-labs/100-numpy-exercises)       | [🚀 Labor Starten](https://labex.io/de/courses/100-numpy-exercises)       |
 
 ## Mehr
 
